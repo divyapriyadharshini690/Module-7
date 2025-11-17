@@ -51,4 +51,4 @@ print(sinh(x,n))
 
 
 ## RESULT
-Thus, the program is excuted and verified.
+Thus to evaluate the value of **sinh(x)** for **n terms** using recursion  the program is excuted and verified.
